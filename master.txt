@@ -1,0 +1,7 @@
+public static {
+
+king = 1 
+queen = 2
+
+}
+
