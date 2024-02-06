@@ -2,6 +2,6 @@ public static {
 
 king = 1 
 queen = 2
-
+prince = 3
 }
 
